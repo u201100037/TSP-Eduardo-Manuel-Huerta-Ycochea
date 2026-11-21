@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/35217493/README.md)
 # AZIMUTH — TSP · Eduardo Manuel Huerta Ycochea
 
 **Trabajo:** TF2026-2
